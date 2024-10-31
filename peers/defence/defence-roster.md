@@ -95,7 +95,7 @@ Elevated on 2023/12/02
 
 <img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
 
-#### Birgitti Lulli, Aarnimetsä 
+#### Birgitti Lulli, Aarnimetsä
 
 Elevated on 2024/02/17
 
